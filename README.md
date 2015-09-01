@@ -18,8 +18,8 @@ sfdc.username=<your username>
 sfdc.password=<your password><your security token>
 ```
 
-4. Run "ant deploy" from the repository base directoy.
+5. Run "ant deploy" from the repository base directoy.
 
-5. Enjoy!
+6. Enjoy!
 
 There are a number of examples in this repository, and good examples of how to run the code are located in the relevant unit test files for each of the classes.
